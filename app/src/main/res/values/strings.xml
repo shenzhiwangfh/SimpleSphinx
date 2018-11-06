@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Sphinx</string>
+    <string name="tips">Say \"Open app name\" or \"Call contacts name\" or \"Send contacts name\"</string>
+</resources>
